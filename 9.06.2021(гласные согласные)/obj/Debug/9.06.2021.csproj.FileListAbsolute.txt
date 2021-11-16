@@ -1,0 +1,30 @@
+C:\Users\student\source\repos\9.06.2021\bin\Debug\9.06.2021.exe.config
+C:\Users\student\source\repos\9.06.2021\bin\Debug\9.06.2021.exe
+C:\Users\student\source\repos\9.06.2021\bin\Debug\9.06.2021.pdb
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.csprojAssemblyReference.cache
+C:\Users\student\source\repos\9.06.2021\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\9.06.2021\obj\Debug\App.g.cs
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021_MarkupCompile.cache
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021_MarkupCompile.lref
+C:\Users\student\source\repos\9.06.2021\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.g.resources
+C:\Users\student\source\repos\9.06.2021\obj\Debug\_9._06._2021.Properties.Resources.resources
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.csproj.GenerateResource.cache
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.exe
+C:\Users\student\source\repos\9.06.2021\obj\Debug\9.06.2021.pdb
+D:\боль\9.06.2021(гласные согласные)\bin\Debug\9.06.2021.exe.config
+D:\боль\9.06.2021(гласные согласные)\bin\Debug\9.06.2021.exe
+D:\боль\9.06.2021(гласные согласные)\bin\Debug\9.06.2021.pdb
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.csproj.AssemblyReference.cache
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\MainWindow.g.cs
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\App.g.cs
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021_MarkupCompile.cache
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021_MarkupCompile.lref
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\MainWindow.baml
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.g.resources
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\_9._06._2021.Properties.Resources.resources
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.csproj.GenerateResource.cache
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.csproj.CoreCompileInputs.cache
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.exe
+D:\боль\9.06.2021(гласные согласные)\obj\Debug\9.06.2021.pdb
